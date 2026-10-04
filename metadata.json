@@ -1,0 +1,6 @@
+{
+  "name": "Place_rev - Журнал відвіданих закладів",
+  "description": "Лабораторний проект Place_rev для обліку відвіданих закладів, оцінок, особистих нотаток та фотографій з підтримкою різних пристроїв.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
